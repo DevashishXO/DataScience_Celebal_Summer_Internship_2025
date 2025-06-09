@@ -14,5 +14,4 @@
 - **Task**: Implement a singly linked list in Python using OOP, with methods to add, print, and delete nodes, including exception handling.
 
 ### Week 3 Assignment
-- **Task**: ### Week 3 Assignment
 - **Task**: Perform exploratory data analysis and visualization on any dataset using different python plotting libraries to uncover trends, patterns, and insights.
