@@ -20,3 +20,6 @@
 
 ### Week 4 Assignment
 - **Task**: Conduct an in-depth Exploratory Data Analysis on a complex dataset. Focus on understanding data distributions, identifying missing values, detecting outliers, and uncovering relationships between variables. Utilize visualizations like histograms, box plots, and heatmaps to support your findings.
+
+### Week 5 Assignment
+- **Task**: Perform detailed data preprocessing, feature engineering, and model evaluation on a real-world housing dataset in preparation for advanced regression tasks. 
