@@ -30,5 +30,8 @@
 ### Week 6 Assignment
 - **Task**: Train multiple classification models on the Heart Disease dataset. Evaluate their performance using Accuracy, Precision, Recall, and F1-Score. Perform hyperparameter tuning using GridSearchCV and RandomizedSearchCV. Visualize and compare results to identify the best-performing model.
 
+### Week 7 Assignment
+- **Task**: Deploy a trained machine learning model using **Streamlit**. Develop a web application that allows users to input features, receive predictions, and understand the model output through interactive visualizations. This will help bridge the gap between model building and practical accessibility.
+
 ---
 
