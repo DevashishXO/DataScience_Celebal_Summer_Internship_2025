@@ -4,6 +4,14 @@ This project aims to predict students' **final exam scores (G3)** based on a ric
 
 ---
 
+## Author
+
+Linkedin: [Devashish Nagpal](linkedin.com/in/devashishnagpal/)
+
+![Homepage](screenshots/home_page.png)
+![Input Form](screenshots/input_form.png)
+![Output Prediction](screenshots/prediction_result.png)
+
 ## Dataset Overview
 
 **Source:** [UCI Machine Learning Repository – Student Performance Data Set](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
@@ -79,3 +87,38 @@ Input:
 }
 
 Predicted Final Grade (G3): 15.2
+
+```
+
+## How to Run the App Locally?
+
+Follow the steps below to run the Streamlit app on your local machine:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/student-exam-score-prediction.git
+cd student-exam-score-prediction
+```
+Replace `your-username` with your actual GitHub username.
+
+### 2. Install Dependencies
+```bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install required packages
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit App
+```bash
+streamlit run app.py
+```
+
