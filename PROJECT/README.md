@@ -4,10 +4,6 @@ This project aims to predict students' **final exam scores (G3)** based on a ric
 
 ---
 
-## Author
-
-Linkedin: [Devashish Nagpal](https://www.linkedin.com/in/devashishnagpal/)
-
 ![Homepage](screenshots/home_page.png)
 ![Input Form](screenshots/input_form_filled.png)
 ![Output Prediction](screenshots/prediction_result.png)
@@ -122,3 +118,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Author
+
+Linkedin: [Devashish Nagpal](https://www.linkedin.com/in/devashishnagpal/)
