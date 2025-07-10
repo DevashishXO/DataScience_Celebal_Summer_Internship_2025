@@ -6,10 +6,10 @@ This project aims to predict students' **final exam scores (G3)** based on a ric
 
 ## Author
 
-Linkedin: [Devashish Nagpal](linkedin.com/in/devashishnagpal/)
+Linkedin: [Devashish Nagpal](https://www.linkedin.com/in/devashishnagpal/)
 
 ![Homepage](screenshots/home_page.png)
-![Input Form](screenshots/input_form.png)
+![Input Form](screenshots/input_form_filled.png)
 ![Output Prediction](screenshots/prediction_result.png)
 
 ## Dataset Overview
