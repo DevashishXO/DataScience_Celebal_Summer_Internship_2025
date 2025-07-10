@@ -10,7 +10,7 @@ This project aims to predict students' **final exam scores (G3)** based on a ric
 
 We use the `student-mat.csv` file which contains data related to students enrolled in the **Math course**.
 
-### 📊 Features (selected from 33 columns)
+### Features (selected from 33 columns)
 
 - **Demographic:** `age`, `sex`, `address`, `famsize`, `Pstatus`
 - **Parental Info:** `Medu`, `Fedu`, `Mjob`, `Fjob`
