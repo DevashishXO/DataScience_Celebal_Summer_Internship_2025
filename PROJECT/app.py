@@ -1,12 +1,44 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import joblib
-import matplotlib.pyplot as plt
 
 # ------------------ Page Config ------------------ #
+st.markdown("""
+<style>
+/* Fonts and spacing */
+html, body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #4B8BBE;
+}
+
+.css-1aumxhk {
+    padding: 1.5rem 1rem 1rem 1rem;
+}
+
+/* Custom button styling */
+div.stButton > button {
+    background-color: #4B8BBE;
+    color: white;
+    border-radius: 8px;
+    height: 3em;
+    width: 100%;
+    font-weight: bold;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background-color: #F0F2F6;
+}
+</style>
+""", unsafe_allow_html=True)
+
 st.set_page_config(page_title="Student Exam Score Predictor", layout="wide")
 st.title("📚 Student Final Grade Prediction App")
+st.markdown("Welcome! This app predicts a student’s **final grade (G3)** using machine learning models.")
+
 
 st.markdown("""
 <style>
@@ -22,14 +54,14 @@ st.markdown("""
 
 # ------------------ Load Models ------------------ #
 model_dict = {
-    "Linear Regression": joblib.load("linear_regression_model.pkl"),
-    "Ridge Regression": joblib.load("ridge_regression_model.pkl"),
-    "Random Forest": joblib.load("random_forest_model.pkl"),
-    "Gradient Boosting": joblib.load("gradient_boosting_model.pkl"),
-    "XGBoost": joblib.load("xgboost_model.pkl")
+    "Linear Regression": joblib.load("models/linear_regression_model.pkl"),
+    "Ridge Regression": joblib.load("models/ridge_regression_model.pkl"),
+    "Random Forest": joblib.load("models/random_forest_model.pkl"),
+    "Gradient Boosting": joblib.load("models/gradient_boosting_model.pkl"),
+    "XGBoost": joblib.load("models/xgboost_model.pkl")
 }
 
-preprocessor = joblib.load("preprocessor.pkl")
+preprocessor = joblib.load("models/preprocessor.pkl")
 
 # ------------------ Sidebar Inputs ------------------ #
 st.sidebar.header("🧾 Enter Student Information")
