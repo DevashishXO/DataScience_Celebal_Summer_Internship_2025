@@ -8,14 +8,14 @@
 
 | Home Interface | Answer Example |
 |----------------|----------------|
-| ![Home UI](screenshots/home.png) | ![Answer UI](screenshots/answer.png) |
+| ![Home UI](screenshots/home_page.png) | ![Answer UI](screenshots/example_query.png) |
 
 ---
 
 ## Author
 
 **Devashish Nagpal**  
-*B.Tech CSE | AI/ML Researcher | Intern at Celebal Technologies*
+[LinkedIn](https://www.linkedin.com/in/devashishnagpal/) 
 
 ---
 
