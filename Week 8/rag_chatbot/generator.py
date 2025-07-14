@@ -1,6 +1,8 @@
 from transformers import pipeline
 from typing import List
 
+
+
 class AnswerGenerator:
     def __init__(self, model_name: str = "google/flan-t5-small"):
         # Initializing the Hugging Face pipeline with a lightweight model
