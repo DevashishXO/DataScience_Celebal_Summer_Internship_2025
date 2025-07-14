@@ -4,12 +4,19 @@
 
 ---
 
-## Screenshots
+<!-- ## Screenshots
 
 | Home Interface | Answer Example |
 |----------------|----------------|
-| ![Home UI](screenshots/home_page.png) | ![Answer UI](screenshots/example_query.png) |
+| ![Home UI](screenshots/home_page.png) | ![Answer UI](screenshots/example_query.png) | -->
 
+## Screenshots
+
+**Home Interface** 
+![Home UI](screenshots/home_page.png)
+
+**Example Query**
+![Answer UI](screenshots/example_query.png)
 ---
 
 ## Author
