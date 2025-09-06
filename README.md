@@ -1,14 +1,12 @@
 # Celebal Technologies CSI'25 (Data Science) Internship
 
-**Author**: [Devashish Nagpal]
+---
 
-## Files
-- `assignment_week_1.py`: Contains the code for the first week's assignment.
-- `assignment_week_2.py`: Contains the code for the second week's assignment.
-- `assignment_week_3.py`: Contains the code for the third week's assignment.
-- `assignment_week_4.py`: Contains the code for the fourth week's assignment.
-- `assignment_week_5.ipynb`: Jupyter Notebook for Week 5 - Regression Preprocessing, Feature Engineering, and Evaluation.
-- `assignment_week_6.ipynb`: Jupyter Notebook for Week 6 - Model Evaluation and Hyperparameter Tuning.
+**Author**: [Devashish Nagpal]
+**LinkedIn**: [Devashish's LinkedIn](https://www.linkedin.com/in/devashishnagpal)
+**GitHub**: [Devashish's GitHub](https://github.com/DevashishXO)
+
+---
 
 ## Assignments
 
@@ -33,11 +31,16 @@
 ### Week 7 Assignment
 - **Task**: Deploy a trained machine learning model using **Streamlit**. Develop a web application that allows users to input features, receive predictions, and understand the model output through interactive visualizations. This will help bridge the gap between model building and practical accessibility.
 
+### Week 8 Assignment
+- **Task**: Build a Retrieval-Augmented Generation (RAG) based chatbot that answers questions using real-world loan application records. Implement vector search with FAISS, use a small language model for answer generation, and create a user-friendly interface with Gradio. Optimize the solution for free hosting on Hugging Face Spaces.
 
+---
 
 ## Project: Student Exam Score Prediction
 ### Overview
 This project aims to predict students' **final exam scores (G3)** based on a rich set of features including academic history, personal background, and lifestyle attributes. The dataset used includes Portuguese secondary school students and was obtained from the UCI Machine Learning Repository.
+
+---
 
 ### Dataset Overview
 **Source:** [UCI Machine Learning Repository – Student Performance Data Set](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
@@ -49,6 +52,8 @@ We use the `student-mat.csv` file which contains data related to students enroll
 - **Lifestyle:** `absences`, `health`, `goout`, `romantic`, `internet`, `Dalc`, `Walc`
 - **Target Variable:** 
   - `G3` — Final grade (0–20)
+
+---
 
 ### Objective
 To build a **regression model** that accurately predicts a student's final exam score (`G3`) based on available information from the dataset.
