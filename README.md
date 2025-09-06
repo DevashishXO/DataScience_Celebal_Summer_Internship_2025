@@ -1,4 +1,4 @@
-# Celebal Technologies CSI'25 (Data Science) Internship
+# **Celebal Technologies CSI'25 (Data Science) Internship**
 
 ---
 
