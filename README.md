@@ -2,7 +2,7 @@
 
 ---
 
-**Author**: [Devashish Nagpal]
+**Author**: **[Devashish Nagpal]**
 
 **LinkedIn**: [Devashish's LinkedIn](https://www.linkedin.com/in/devashishnagpal)
 
