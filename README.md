@@ -3,7 +3,9 @@
 ---
 
 **Author**: [Devashish Nagpal]
+
 **LinkedIn**: [Devashish's LinkedIn](https://www.linkedin.com/in/devashishnagpal)
+
 **GitHub**: [Devashish's GitHub](https://github.com/DevashishXO)
 
 ---
