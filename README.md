@@ -39,6 +39,14 @@
 ---
 
 ## Project: Student Exam Score Prediction
+
+---
+
+### Objective
+To build a **regression model** that accurately predicts a student's final exam score (`G3`) based on available information from the dataset.
+
+---
+
 ### Overview
 This project aims to predict students' **final exam scores (G3)** based on a rich set of features including academic history, personal background, and lifestyle attributes. The dataset used includes Portuguese secondary school students and was obtained from the UCI Machine Learning Repository.
 
@@ -56,9 +64,3 @@ We use the `student-mat.csv` file which contains data related to students enroll
   - `G3` — Final grade (0–20)
 
 ---
-
-### Objective
-To build a **regression model** that accurately predicts a student's final exam score (`G3`) based on available information from the dataset.
-
----
-
