@@ -1,14 +1,8 @@
-# Loan Approval RAG Chatbot
+# Week 8: RAG Chatbot for Loan Application Data
 
-> A Retrieval-Augmented Generation (RAG) based intelligent chatbot that answers questions using real-world loan application records. Built using **FAISS**, **Hugging Face Transformers**, and **Gradio**. Lightweight and optimized for free hosting on Hugging Face Spaces.
+A Retrieval-Augmented Generation (RAG) based intelligent chatbot that answers questions using real-world loan application records. Built using **FAISS**, **Hugging Face Transformers**, and **Gradio**. Lightweight and optimized for free hosting on Hugging Face Spaces.
 
 ---
-
-<!-- ## Screenshots
-
-| Home Interface | Answer Example |
-|----------------|----------------|
-| ![Home UI](screenshots/home_page.png) | ![Answer UI](screenshots/example_query.png) | -->
 
 ## Screenshots
 
@@ -17,6 +11,7 @@
 
 **Example Query**
 ![Answer UI](screenshots/example_query.png)
+
 ---
 
 ## Author
